@@ -22,9 +22,9 @@ https://viptine.site/2/vavoo.php?hls=1423845809.m3u8
 https://viptine.site/2/vavoo.php?hls=114501523.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",TRT SPOR YILDIZ RAW (1)
 https://viptine.site/2/vavoo.php?hls=2689297527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",4K TR: TRT SPOR HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Spor",4K TRT SPOR HD (1)
 https://viptine.site/2/vavoo.php?hls=2262969938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",4K TR: TRT SPOR YILDIZ (1)
+#EXTINF:-1 tvg-logo="" group-title="Spor",4K TRT SPOR YILDIZ (1)
 https://viptine.site/2/vavoo.php?hls=2750507083.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",A SPOR (6)
 https://viptine.site/2/vavoo.php?hls=819272696.m3u8
@@ -52,7 +52,7 @@ https://viptine.site/2/vavoo.php?hls=1197336000.m3u8
 https://viptine.site/2/vavoo.php?hls=2806079612.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS HABER HD (1)
 https://viptine.site/2/vavoo.php?hls=3989995533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS HABER RAW (1)
+#EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS HABER RAW 
 https://viptine.site/2/vavoo.php?hls=1646632825.m3u8
 
 
@@ -73,7 +73,7 @@ https://viptine.site/2/vavoo.php?hls=300113394.m3u8
 https://viptine.site/2/vavoo.php?hls=3840475653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS 1 (720PFEED) (1)
 https://viptine.site/2/vavoo.php?hls=2233066433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS 1 [LIVE ONLY] (7)
+#EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS 1 [LIVE] (7)
 https://viptine.site/2/vavoo.php?hls=3428984703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",BEIN SPORTS 1 + (1)
 https://viptine.site/2/vavoo.php?hls=2576216897.m3u8
@@ -341,9 +341,9 @@ https://viptine.site/2/vavoo.php?hls=2024568982.m3u8
 https://viptine.site/2/vavoo.php?hls=1188258066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 1 (7)
 https://viptine.site/2/vavoo.php?hls=1842018252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY] (7)
+#EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 2 [ONLY] (7)
 https://viptine.site/2/vavoo.php?hls=3961480108.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] (7)
+#EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 3 [ONLY] (7)
 https://viptine.site/2/vavoo.php?hls=3807939453.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",EXXEN SPORTS 4 (7)
 https://viptine.site/2/vavoo.php?hls=2771024060.m3u8
@@ -383,9 +383,9 @@ https://viptine.site/2/vavoo.php?hls=3343300331.m3u8
 https://viptine.site/2/vavoo.php?hls=1159078202.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Spor",4K TR: EUROSPORT 1 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Spor",4K  EUROSPORT 1 HD (1)
 https://viptine.site/2/vavoo.php?hls=2078862937.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",4K TR: EUROSPORT 2 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Spor",4K EUROSPORT 2 HD (1)
 https://viptine.site/2/vavoo.php?hls=4117227962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spor",4K TR: FB TV (1)
 https://viptine.site/2/vavoo.php?hls=3730681078.m3u8
@@ -457,27 +457,27 @@ https://viptine.site/2/vavoo.php?hls=3416743954.m3u8
 https://viptine.site/2/vavoo.php?hls=678261693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: FX HD (1)
 https://viptine.site/2/vavoo.php?hls=1561495319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA 1002 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA 1002 HD (1)
 https://viptine.site/2/vavoo.php?hls=1076643856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA A LE 2 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA AiLE 2 HD (1)
 https://viptine.site/2/vavoo.php?hls=3000594763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA A LE HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA AiLE HD (1)
 https://viptine.site/2/vavoo.php?hls=698495811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA AKS YON 2 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA AKSiYON 2 HD 
 https://viptine.site/2/vavoo.php?hls=3440711580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA KOMED HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA KOMED HD (1)
 https://viptine.site/2/vavoo.php?hls=440774949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA TV 1001 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA TV 1001 HD (1)
 https://viptine.site/2/vavoo.php?hls=2761385166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA TV 2 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA TV 2 HD (1)
 https://viptine.site/2/vavoo.php?hls=295060524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA TV AKS YON HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA TV AKSiYON HD
 https://viptine.site/2/vavoo.php?hls=2246993811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA TV HD (1)
 https://viptine.site/2/vavoo.php?hls=2780830033.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA YERL 2 HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA YERL 2 HD (1)
 https://viptine.site/2/vavoo.php?hls=3971603427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K TR: SiNEMA YERL HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",4K SiNEMA YERL HD (1)
 https://viptine.site/2/vavoo.php?hls=1897159473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sinema & Dizi",BEIN BOX OFFICE 1 (6)
 https://viptine.site/2/vavoo.php?hls=2930746102.m3u8
@@ -1404,7 +1404,7 @@ https://viptine.site/2/vavoo.php?hls=869937351.m3u8
 https://viptine.site/2/vavoo.php?hls=3578706863.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgesel",4K TR: NATIONAL GEOGRAPHIC HD (1)
 https://viptine.site/2/vavoo.php?hls=1078355325.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgesel",4K TR: NATIONAL GEOGRAPHIC WILD HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Belgesel",4K TR: NATIONAL GEOGRAPHIC WILD
 https://viptine.site/2/vavoo.php?hls=132416616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgesel",4K TR: TRT BELGESEL HD (1)
 https://viptine.site/2/vavoo.php?hls=786973656.m3u8
@@ -1681,30 +1681,24 @@ https://viptine.site/2/vavoo.php?hls=550045102.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: DREAM T RK (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K DREAM T RK (1)
 https://viptine.site/2/vavoo.php?hls=4266683025.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: NR1 DAMAR HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K NR1 DAMAR HD (1)
 https://viptine.site/2/vavoo.php?hls=2432556224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: NUMBER1 TURK HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K NUMBER1 TURK HD (1)
 https://viptine.site/2/vavoo.php?hls=4042887584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: NUMBER1 TV HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K NUMBER1 TV HD (1)
 https://viptine.site/2/vavoo.php?hls=1526602599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: POWER TURK HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K POWER TURK HD (1)
 https://viptine.site/2/vavoo.php?hls=4244447384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: POWER TV HD (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K POWER TV HD (1)
 https://viptine.site/2/vavoo.php?hls=1307965662.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",4K TR: TRT M Z K (1)
 https://viptine.site/2/vavoo.php?hls=970382162.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",AHMET KAYA (1)
 https://viptine.site/2/vavoo.php?hls=292984675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",AKUSTIK (1)
-https://viptine.site/2/vavoo.php?hls=3728553873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",ALEM FM RADYOLAND (1)
-https://viptine.site/2/vavoo.php?hls=1908714253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",ALEM RADYO (1)
-https://viptine.site/2/vavoo.php?hls=809445873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",BABA RADYO ARABESK (1)
-https://viptine.site/2/vavoo.php?hls=4096569454.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",CENGIZ KURTOGLU (1)
 https://viptine.site/2/vavoo.php?hls=1871521087.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",DREAM TURK (1)
@@ -1755,19 +1749,19 @@ https://viptine.site/2/vavoo.php?hls=409852058.m3u8
 https://viptine.site/2/vavoo.php?hls=3062704286.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",NUMBER 1 TURK (6)
 https://viptine.site/2/vavoo.php?hls=344176452.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",PAL STATION YABANCI M ZIK (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",PAL STATION YABANCI MuZIK (1)
 https://viptine.site/2/vavoo.php?hls=4201548536.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER (7)
 https://viptine.site/2/vavoo.php?hls=198132618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER DANCE (6)
 https://viptine.site/2/vavoo.php?hls=4234416466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER FM YABANCI M ZIK (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER FM YABANCI MUZIK (1)
 https://viptine.site/2/vavoo.php?hls=1299417291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER HD (1)
 https://viptine.site/2/vavoo.php?hls=2366790408.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER LOVE (6)
 https://viptine.site/2/vavoo.php?hls=1783508809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER T RK T RK E POP (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER TuRK TURKCE POP (1)
 https://viptine.site/2/vavoo.php?hls=2703806315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",POWER TURK (7)
 https://viptine.site/2/vavoo.php?hls=538668348.m3u8
@@ -1789,10 +1783,6 @@ https://viptine.site/2/vavoo.php?hls=2387657693.m3u8
 https://viptine.site/2/vavoo.php?hls=2451600415.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",SEZEN AKSU (1)
 https://viptine.site/2/vavoo.php?hls=2562804524.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",SHOW RADYO (1)
-https://viptine.site/2/vavoo.php?hls=3509899144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",STANBUL FM T RK E POP (1)
-https://viptine.site/2/vavoo.php?hls=2411300087.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",TATLISES TV (6)
 https://viptine.site/2/vavoo.php?hls=3333865510.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",TRT MUZIK (6)
@@ -1807,7 +1797,7 @@ https://viptine.site/2/vavoo.php?hls=433581315.m3u8
 https://viptine.site/2/vavoo.php?hls=2245395439.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",VINTAGE MUSIC (6)
 https://viptine.site/2/vavoo.php?hls=3440401226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",X NOSTALJI T RK E KLASIK (1)
+#EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",X NOSTALJI TURKCE KLASIK
 https://viptine.site/2/vavoo.php?hls=1767757052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Müzik & Radyo",YILDIZ TILBE (1)
 https://viptine.site/2/vavoo.php?hls=405072201.m3u8
@@ -1820,19 +1810,19 @@ https://viptine.site/2/vavoo.php?hls=2655157451.m3u8
 https://viptine.site/2/vavoo.php?hls=2134735285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ADANA TV (1)
 https://viptine.site/2/vavoo.php?hls=225124967.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ADIYAMAN MERCAN TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ADIYAMAN MERCAN TV 
 https://viptine.site/2/vavoo.php?hls=3055235391.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AFYON T RK TV (1)
 https://viptine.site/2/vavoo.php?hls=145755891.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AFYON TURK (7)
 https://viptine.site/2/vavoo.php?hls=1782534194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AKSARAY KANAL 68 (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AKSARAY KANAL 68 
 https://viptine.site/2/vavoo.php?hls=955806672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AKSU TV (6)
 https://viptine.site/2/vavoo.php?hls=2170702658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AKSU TV K MARAS (7)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AKSU TV K MARAS 
 https://viptine.site/2/vavoo.php?hls=2914289476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ALANYA POSTA TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ALANYA POSTA TV 
 https://viptine.site/2/vavoo.php?hls=2873030028.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ALTAS TV (6)
 https://viptine.site/2/vavoo.php?hls=769414837.m3u8
@@ -1840,19 +1830,19 @@ https://viptine.site/2/vavoo.php?hls=769414837.m3u8
 https://viptine.site/2/vavoo.php?hls=730257349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU DERNEK (7)
 https://viptine.site/2/vavoo.php?hls=1468389014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU DERNEK TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU DERNEK TV 
 https://viptine.site/2/vavoo.php?hls=4274827801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU DERNEK TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU DERNEK TV 
 https://viptine.site/2/vavoo.php?hls=3978460736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANADOLU TV (6)
 https://viptine.site/2/vavoo.php?hls=1917558455.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANAKKALE BOĞAZ TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",CANAKKALE BOĞAZ TV 
 https://viptine.site/2/vavoo.php?hls=1943578223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANAKKALE TON TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",CANAKKALE TON TV 
 https://viptine.site/2/vavoo.php?hls=4250561695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANLIURFA KANAL URFA (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANLIURFA KANAL URFA 
 https://viptine.site/2/vavoo.php?hls=754868351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANTALYA KANAL V (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ANTALYA KANAL V 
 https://viptine.site/2/vavoo.php?hls=1940767005.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",AS TV BURSA (6)
 https://viptine.site/2/vavoo.php?hls=1889158339.m3u8
@@ -1878,19 +1868,19 @@ https://viptine.site/2/vavoo.php?hls=3900702315.m3u8
 https://viptine.site/2/vavoo.php?hls=2650916441.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",CAY TV (7)
 https://viptine.site/2/vavoo.php?hls=4090316698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",D Ğ N TV (GERMANY) (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",DUĞUN TV (GERMANY) 
 https://viptine.site/2/vavoo.php?hls=2660902091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",DENIZ POSTASI TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",DENIZ POSTASI TV 
 https://viptine.site/2/vavoo.php?hls=1832075215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",DENIZLI DEHA TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",DENIZLI DEHA TV 
 https://viptine.site/2/vavoo.php?hls=230189059.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",EDESSA TV (6)
 https://viptine.site/2/vavoo.php?hls=2154492528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",EDIRNE ETV (1)
 https://viptine.site/2/vavoo.php?hls=658726604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ELAZIG KANAL 23 (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ELAZIG KANAL 23 
 https://viptine.site/2/vavoo.php?hls=3504045857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ELAZIG KANAL FIRAT (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ELAZIG KANAL FIRAT 
 https://viptine.site/2/vavoo.php?hls=634397776.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ER TV (1)
 https://viptine.site/2/vavoo.php?hls=3498658720.m3u8
@@ -1900,17 +1890,17 @@ https://viptine.site/2/vavoo.php?hls=2901457550.m3u8
 https://viptine.site/2/vavoo.php?hls=221836468.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ERZURUM WEB TV (6)
 https://viptine.site/2/vavoo.php?hls=1736962708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ES TV (ESKISEHIR) (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ES TV (ESKISEHIR) 
 https://viptine.site/2/vavoo.php?hls=1670462361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ES TV (ESKISEHIR) (7)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ES TV (ESKISEHIR) 
 https://viptine.site/2/vavoo.php?hls=2207104549.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ESK EH R KANAL 26 (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ESK EH R KANAL 26 
 https://viptine.site/2/vavoo.php?hls=4090141978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ETV KAYSERI (6)
 https://viptine.site/2/vavoo.php?hls=1218353983.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ETV MANISA (6)
 https://viptine.site/2/vavoo.php?hls=2024954002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",GAZIANTEP GRT TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",GAZIANTEP GRT TV 
 https://viptine.site/2/vavoo.php?hls=2843011698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",GRT TV (6)
 https://viptine.site/2/vavoo.php?hls=2577534278.m3u8
@@ -1928,7 +1918,7 @@ https://viptine.site/2/vavoo.php?hls=2488859400.m3u8
 https://viptine.site/2/vavoo.php?hls=1676737490.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KADIRGA (7)
 https://viptine.site/2/vavoo.php?hls=2717283979.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KAHRAMANMARA AKSU TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KAHRAMANMARA AKSU TV
 https://viptine.site/2/vavoo.php?hls=1716018058.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KANAL 12 (6)
 https://viptine.site/2/vavoo.php?hls=2917371409.m3u8
@@ -1978,15 +1968,15 @@ https://viptine.site/2/vavoo.php?hls=1270110607.m3u8
 https://viptine.site/2/vavoo.php?hls=1198414561.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KAYSERI KAY TV (1)
 https://viptine.site/2/vavoo.php?hls=168048388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KAYSERI OLAY T RK TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KAYSERI OLAY TURKTV 
 https://viptine.site/2/vavoo.php?hls=2071472807.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KENT TÜRK (6)
 https://viptine.site/2/vavoo.php?hls=3962582829.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KENT TURK (7)
 https://viptine.site/2/vavoo.php?hls=704689787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KIBRIS GENÇ TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KIBRIS GENÇ TV 
 https://viptine.site/2/vavoo.php?hls=3115477419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KIBRIS KANAL T (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KIBRIS KANAL T 
 https://viptine.site/2/vavoo.php?hls=506213824.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KIBRIS TV (6)
 https://viptine.site/2/vavoo.php?hls=631930666.m3u8
@@ -1998,7 +1988,7 @@ https://viptine.site/2/vavoo.php?hls=862610701.m3u8
 https://viptine.site/2/vavoo.php?hls=1587995854.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KONYA KON TV (1)
 https://viptine.site/2/vavoo.php?hls=3759364273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KONYA OLAY TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KONYA OLAY TV 
 https://viptine.site/2/vavoo.php?hls=578380861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KÖY TV (6)
 https://viptine.site/2/vavoo.php?hls=870320507.m3u8
@@ -2010,17 +2000,17 @@ https://viptine.site/2/vavoo.php?hls=3946938534.m3u8
 https://viptine.site/2/vavoo.php?hls=1047804470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",KOZA TV HD (1)
 https://viptine.site/2/vavoo.php?hls=4002657935.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ 
 https://viptine.site/2/vavoo.php?hls=3854689350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ (7)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ 
 https://viptine.site/2/vavoo.php?hls=3375018468.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MAVI KARADENIZ TV 
 https://viptine.site/2/vavoo.php?hls=3598877177.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",MERSIN EL TV (1)
 https://viptine.site/2/vavoo.php?hls=1480015488.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",OLAY TURK (6)
 https://viptine.site/2/vavoo.php?hls=382635550.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ORDU BUYUKSEHIR BELEDIYESI (OBB) (6)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ORDU BUYUKSEHIR BELEDIYESI 
 https://viptine.site/2/vavoo.php?hls=760981668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",PAMUKKALE (7)
 https://viptine.site/2/vavoo.php?hls=1647886571.m3u8
@@ -2036,7 +2026,7 @@ https://viptine.site/2/vavoo.php?hls=2354543811.m3u8
 https://viptine.site/2/vavoo.php?hls=3122863032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",TON TV (6)
 https://viptine.site/2/vavoo.php?hls=3855597416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",TUNCELI DERSIM 62 TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",TUNCELI DERSIM 62 TV 
 https://viptine.site/2/vavoo.php?hls=942180218.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",TV 264 (6)
 https://viptine.site/2/vavoo.php?hls=1984101968.m3u8
@@ -2064,15 +2054,15 @@ https://viptine.site/2/vavoo.php?hls=3524690612.m3u8
 https://viptine.site/2/vavoo.php?hls=3442514805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",VIZYON 58 (7)
 https://viptine.site/2/vavoo.php?hls=1283602496.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",VIZYON 58 TV SIVAS (7)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",VIZYON 58 TV SIVAS 
 https://viptine.site/2/vavoo.php?hls=2278118654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",VUSLAT TV (6)
 https://viptine.site/2/vavoo.php?hls=949033122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",VUSLAT TV (7)
 https://viptine.site/2/vavoo.php?hls=1061752758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",YENI KOCAELI TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",YENI KOCAELI TV 
 https://viptine.site/2/vavoo.php?hls=758663570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ZONGULDAK KANAL Z (1)
+#EXTINF:-1 tvg-logo="" group-title="Yerel & Bölgesel",ZONGULDAK KANAL Z 
 https://viptine.site/2/vavoo.php?hls=1467834090.m3u8
 
 
@@ -2083,7 +2073,7 @@ https://viptine.site/2/vavoo.php?hls=3295699287.m3u8
 https://viptine.site/2/vavoo.php?hls=3329504843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",24 KITCHEN HD (1)
 https://viptine.site/2/vavoo.php?hls=4285350247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",4K TR: ENGLISH CLUB TV (1)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",4K ENGLISH CLUB TV 
 https://viptine.site/2/vavoo.php?hls=925055356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",AGRO TV (6)
 https://viptine.site/2/vavoo.php?hls=1633587820.m3u8
@@ -2101,15 +2091,15 @@ https://viptine.site/2/vavoo.php?hls=3185778667.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV ILKOKUL (6)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV ILKOKUL 
 https://viptine.site/2/vavoo.php?hls=3316189195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV LISE (6)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV LISE 
 https://viptine.site/2/vavoo.php?hls=3614565410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV ORTAOKUL (6)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",EBA TV ORTAOKUL 
 https://viptine.site/2/vavoo.php?hls=3751527622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",IZ TV (1)
 https://viptine.site/2/vavoo.php?hls=3847791361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",SATRANÇ TV (6)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",SATRANÇ TV 
 https://viptine.site/2/vavoo.php?hls=1192565728.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TLC (6)
 https://viptine.site/2/vavoo.php?hls=1766840660.m3u8
@@ -2117,9 +2107,9 @@ https://viptine.site/2/vavoo.php?hls=1766840660.m3u8
 https://viptine.site/2/vavoo.php?hls=951448076.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TRT EBA (6)
 https://viptine.site/2/vavoo.php?hls=3681071746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TRT EBA ILKOKUL (7)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TRT EBA ILKOKUL 
 https://viptine.site/2/vavoo.php?hls=2287658033.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TRT EBA ORTAOKUL (7)
+#EXTINF:-1 tvg-logo="" group-title="Yaşam & Eğitim",TRT EBA ORTAOKUL 
 https://viptine.site/2/vavoo.php?hls=17020398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",4K TR: LKE TV HD (1)
 https://viptine.site/2/vavoo.php?hls=1839766333.m3u8
@@ -2157,7 +2147,7 @@ https://viptine.site/2/vavoo.php?hls=2999246297.m3u8
 https://viptine.site/2/vavoo.php?hls=2663765748.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",FORTUNA TV (6)
 https://viptine.site/2/vavoo.php?hls=4192931907.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Diğer",HASAN VE HUSEYIN (1)
+#EXTINF:-1 tvg-logo="" group-title="Diğer",HASAN VE HUSEYIN 
 https://viptine.site/2/vavoo.php?hls=3614828917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",HRT (1)
 https://viptine.site/2/vavoo.php?hls=2826493312.m3u8
@@ -2231,13 +2221,13 @@ https://viptine.site/2/vavoo.php?hls=4096268883.m3u8
 https://viptine.site/2/vavoo.php?hls=4154723330.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",SIFIR TV HD (1)
 https://viptine.site/2/vavoo.php?hls=1553288763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Diğer",SURELER VE T RKCE MEALI (1)
+#EXTINF:-1 tvg-logo="" group-title="Diğer",SURELER VE TURKCE MEALI 
 https://viptine.site/2/vavoo.php?hls=3430890461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",TAY TV (6)
 https://viptine.site/2/vavoo.php?hls=1534287048.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",TBMM TV (6)
 https://viptine.site/2/vavoo.php?hls=1770699644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Diğer",TELEGRAM GRUP LINKI (1)
+#EXTINF:-1 tvg-logo="" group-title="Diğer",TELEGRAM GRUP LINKI 
 https://viptine.site/2/vavoo.php?hls=1110088936.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diğer",TEMPO (7)
 https://viptine.site/2/vavoo.php?hls=3475377621.m3u8
